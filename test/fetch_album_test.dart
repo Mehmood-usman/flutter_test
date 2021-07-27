@@ -6,6 +6,7 @@ import 'package:mockitopractice/main.dart';
 
 import 'fetch_album_test.mocks.dart';
 
+
 // Generate a MockClient using the Mockito package.
 // Create new instances of this class in each test.
 @GenerateMocks([http.Client]
